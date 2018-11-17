@@ -4,7 +4,6 @@
     "description": "使用找台語網站找台語",
     "author": "poligen",
     "homepage_url":"https://github.com/poligen/taigi-extension",
-    "default_locale":"zh_tw",
     "version": "0.1",
     "icons":{
         "48": "icons/48.png",
