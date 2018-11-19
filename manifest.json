@@ -4,10 +4,10 @@
     "description": "使用找台語網站找台語",
     "author": "poligen",
     "homepage_url":"https://github.com/poligen/taigi-extension",
-    "version": "0.1",
+    "version": "0.1.1",
     "icons":{
-        "48": "icons/48.png",
-        "96": "icons/96.png"
+        "18": "icons/48.png",
+        "36": "icons/96.png"
     },
     "permissions":["contextMenus"],
     "background": {
