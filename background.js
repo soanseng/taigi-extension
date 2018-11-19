@@ -1,7 +1,7 @@
 // create a context menu
 browser.contextMenus.create({
     id: "poj",
-    title: "白話",
+    title: "白話字",
     contexts: ["selection"]
 });
 
